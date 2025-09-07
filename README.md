@@ -7,8 +7,7 @@ Projeto pessoal para desenvolvimento de um Infoproduto para Instagram.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -34,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto pessoal para desenvolvimento de um Infoproduto para Instagram.
 
-- [Acesse o projeto finalizado, online](https://ljanotte.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://ljanotte.github.io/infoproduto)
 
 ## 📝 Licença
 
@@ -42,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ❤️ by ljanotte 👏 
+Feito com ❤️ by LJanotteDev 👏 

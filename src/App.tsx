@@ -148,7 +148,7 @@ function App() {
                 <li>• Suporte WhatsApp</li>
               </ul>
               <p className="mt-4 font-bold text-3xl">
-                R$ 997
+                R$ 5000,00
                 <span className="font-normal text-base text-slate-500">
                   {" "}
                   / único
@@ -186,7 +186,11 @@ function App() {
               </p>
             </CardContent>
             <CardFooter className="gap-3">
-              <Button asChild variant="secondary" className="w-full bg-pink-600 text-amber-50">
+              <Button
+                asChild
+                variant="secondary"
+                className="w-full bg-pink-600 text-amber-50"
+              >
                 <a href={instagramProfile}>Ver mais no Instagram</a>
               </Button>
             </CardFooter>
